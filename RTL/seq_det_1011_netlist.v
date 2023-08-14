@@ -1,8 +1,3 @@
-/////////////////////////////////////////////////////////////
-// Created by: Synopsys DC Expert(TM) in wire load mode
-// Version   : O-2018.06-SP1
-// Date      : Sun Aug 13 01:09:58 2023
-/////////////////////////////////////////////////////////////
 
 // Headers
 module tsb(a, three_state, out);     // Tri State Buffer
